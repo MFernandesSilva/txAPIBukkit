@@ -2,6 +2,8 @@
 
 TxApiBukkit é uma API para o Spigot 1.7.10 que simplifica tarefas comuns de desenvolvimento de plugins, como manipulação de inventários, itens, localizações, mensagens, dados NBT, placares e sons.
 
+Requires the use of Item-NBT-API: https://modrinth.com/plugin/nbtapi/versions?g=1.7.10
+
 ## Inventario
 
 ### Métodos
