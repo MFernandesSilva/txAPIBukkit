@@ -31,6 +31,7 @@ public class Item {
         return this;
     }
 
+
     public Item setLore(List<String> lore) {
         im.setLore(lore);
         is.setItemMeta(im);
